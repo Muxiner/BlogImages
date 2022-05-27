@@ -3,4 +3,9 @@
 
 ## 测试图片
 
-![](https://raw.githubusercontent.com/Muxiner/BlogImages/main/img_md/genshen.jpg)
+```md
+![](https://munner.coding.net/p/blogpicgo/d/blogimages/git/raw/main/img_md/genshen_haidengjie.jpg)
+```
+![](https://munner.coding.net/p/blogpicgo/d/blogimages/git/raw/main/img_md/genshen_haidengjie.jpg)
+
+成功
