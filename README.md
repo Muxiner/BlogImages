@@ -3,9 +3,6 @@
 
 ## 测试图片
 
-```md
-![](https://munner.coding.net/p/blogpicgo/d/blogimages/git/raw/main/img_md/genshen_haidengjie.jpg)
-```
-![](https://munner.coding.net/p/blogpicgo/d/blogimages/git/raw/main/img_md/genshen_haidengjie.jpg)
+测试很成功？是的很成功的。
 
 成功
